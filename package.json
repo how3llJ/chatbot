@@ -1,0 +1,19 @@
+{
+  "name": "chatbot",
+  "version": "1.0.0",
+  "description": "A little bot that helps with chat interaction",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/how3llJ/chatbot.git"
+  },
+  "author": "Kaden S Johnson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/how3llJ/chatbot/issues"
+  },
+  "homepage": "https://github.com/how3llJ/chatbot#readme"
+}

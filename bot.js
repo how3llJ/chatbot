@@ -1,1 +1,7 @@
-// setting up the environment for the project
+// require statements
+
+// variables
+
+// main body
+
+//functions
